@@ -1,3 +1,5 @@
+# Works in develop mode
+
 # PersonalBlog
 
 A [GatsbyJS](https://www.gatsbyjs.org/) personal blog starter. <br /><br />
